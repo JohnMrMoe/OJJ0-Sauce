@@ -1,0 +1,7 @@
+Basic paranthesis:
+  a = .+(0, 1, 2);
+
+one liners
+  a .+(0, 1, 2);
+  
+  ??+
