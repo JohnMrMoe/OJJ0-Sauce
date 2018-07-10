@@ -5,3 +5,17 @@ one liners
   a .+(0, 1, 2);
   
   ??+
+  
+  
+  -----------------------------
+  
+  
+  We can either take the whole file as one strign or reade it character for character. I think the later is the most practical, everything is stored as string values, but not in the "same" string. Will be a mess to save it in "one" string(ofc this will be a mess either way).
+  
+  
+  Everything before/between ";" is unice pieces of code.
+  for example
+  "
+  int a .= 5; int b .= a;
+"
+. Their seen as seperate expressions. 
