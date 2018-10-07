@@ -1,3 +1,3 @@
 # OJJ0-Sauce
 
-Yo
+Convention:
